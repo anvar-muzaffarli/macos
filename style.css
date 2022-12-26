@@ -1,0 +1,8 @@
+#section {
+    background-image: url('./photo-1631631480669-535cc43f2327.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
